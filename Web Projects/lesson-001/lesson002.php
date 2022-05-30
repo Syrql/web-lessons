@@ -1,5 +1,5 @@
 
-<?
+<?php
     /**
     * First utilisation of php.
     * Using int var
@@ -12,7 +12,7 @@
     echo "New value of X is $x";
 ?>
 
-<?
+<?php
     /**
      * First utilisation of php
      * Using String var
@@ -24,7 +24,7 @@
     echo "Your name is $name and your pseudonym is $pseudonym";
 ?>
 
-<?
+<?php
     /**
      * First utilisation of php
      * Using Array var

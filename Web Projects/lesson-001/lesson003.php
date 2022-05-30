@@ -1,4 +1,4 @@
-<? 
+<?php
     /**
      * First utilisation of php
      * Using Operators
@@ -12,7 +12,7 @@
     echo "You need $compare points to be the first."
 ?>
 
-<?
+<?php
     /**
      * First utilisation of php
      * Using Operators

@@ -1,4 +1,4 @@
-<?
+<?php
     /**
     * First utilisation of php.
     * Print Hello World.
